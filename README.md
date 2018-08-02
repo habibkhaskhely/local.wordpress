@@ -1,0 +1,2 @@
+# local.wordpress
+local.wordpress
